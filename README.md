@@ -21,5 +21,5 @@ This project was created with:
 Clone the project
 
 ```sh
-git clone https://github.com/SupTarr/ColmarAcademy.git
+git clone https://github.com/akkarawinS/ColmarAcademy
 ```
